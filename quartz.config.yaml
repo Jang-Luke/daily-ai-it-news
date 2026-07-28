@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: 매일 아침 AI·IT 개발 뉴스
+  pageTitle: lujke blog
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
